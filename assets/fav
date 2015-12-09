@@ -1,0 +1,13 @@
+{
+"favList":
+[
+  {
+    "header": "日劇",
+    "links": 
+    [
+      {"name":"豬豬字幕組", "url":"http://www.suppig.net/"},
+      {"name":"日菁字幕組", "url":"http://www.mytvbt.net/forumdisplay.php?fid=6"}
+    ]
+  }
+]
+}
